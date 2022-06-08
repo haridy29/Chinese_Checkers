@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.shape.Circle?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="750.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.GameController">
+   <center>
+      <AnchorPane maxWidth="-Infinity" minWidth="-Infinity" prefHeight="602.0" prefWidth="750.0" BorderPane.alignment="CENTER">
+         <children>
+            <Circle id="17,5,13" fill="#1fff25" layoutX="376.0" layoutY="69.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="16,6,13" fill="#1fff25" layoutX="356.0" layoutY="96.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="16,5,12" fill="#1fff25" layoutX="393.0" layoutY="93.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="15,7,13" fill="#1fff25" layoutX="336.0" layoutY="119.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="15,6,12" fill="#1fff25" layoutX="374.0" layoutY="118.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="15,5,11" fill="#1fff25" layoutX="416.0" layoutY="119.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="14,8,13" fill="#1fff25" layoutX="316.0" layoutY="144.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="14,7,12" fill="#1fff25" layoutX="356.0" layoutY="144.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="14,6,11" fill="#1fff25" layoutX="396.0" layoutY="144.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="14,5,10" fill="#1fff25" layoutX="436.0" layoutY="144.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="13,9,13" fill="WHITE" layoutX="298.0" layoutY="166.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="13,8,12" fill="WHITE" layoutX="336.0" layoutY="166.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="13,7,11" fill="WHITE" layoutX="376.0" layoutY="166.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="13,6,10" fill="WHITE" layoutX="416.0" layoutY="166.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="13,5,9" fill="WHITE" layoutX="456.0" layoutY="166.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="13,10,14" fill="WHITE" layoutX="263.0" layoutY="166.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="12,13,16" fill="WHITE" layoutX="176.0" layoutY="192.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="13,13,17" fill="WHITE" layoutX="159.0" layoutY="166.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="13,12,16" fill="WHITE" layoutX="195.0" layoutY="166.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="13,11,15" fill="WHITE" layoutX="229.0" layoutY="166.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="12,12,15" fill="WHITE" layoutX="212.0" layoutY="192.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="12,11,14" fill="WHITE" layoutX="245.0" layoutY="192.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="11,12,14" fill="WHITE" layoutX="229.0" layoutY="216.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="11,13,15" fill="WHITE" layoutX="195.0" layoutY="215.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="10,13,14" fill="WHITE" layoutX="212.0" layoutY="242.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="12,9,12" fill="WHITE" layoutX="316.0" layoutY="192.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="12,10,13" fill="WHITE" layoutX="279.0" layoutY="192.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="12,6,9" fill="WHITE" layoutX="436.0" layoutY="192.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="12,7,10" fill="WHITE" layoutX="396.0" layoutY="192.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="12,8,11" fill="WHITE" layoutX="356.0" layoutY="192.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="12,5,8" fill="WHITE" layoutX="476.0" layoutY="192.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="13,4,8" fill="WHITE" layoutX="493.0" layoutY="166.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="12,3,6" fill="WHITE" layoutX="545.0" layoutY="192.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="13,2,6" fill="WHITE" layoutX="562.0" layoutY="166.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="13,3,7" fill="WHITE" layoutX="529.0" layoutY="166.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="12,4,7" fill="WHITE" layoutX="512.0" layoutY="192.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="13,1,5" fill="WHITE" layoutX="595.0" layoutY="166.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="12,2,5" fill="WHITE" layoutX="579.0" layoutY="192.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="11,3,5" fill="WHITE" layoutX="562.0" layoutY="218.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="11,4,6" fill="WHITE" layoutX="529.0" layoutY="218.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="10,4,5" fill="WHITE" layoutX="545.0" layoutY="242.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="11,7,9" fill="WHITE" layoutX="416.0" layoutY="218.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="11,6,8" fill="WHITE" layoutX="456.0" layoutY="218.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="11,5,7" fill="WHITE" layoutX="494.0" layoutY="218.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="11,9,11" fill="WHITE" layoutX="336.0" layoutY="218.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="11,8,10" fill="WHITE" layoutX="376.0" layoutY="218.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="11,10,12" fill="WHITE" layoutX="296.0" layoutY="216.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="11,11,13" fill="WHITE" layoutX="262.0" layoutY="216.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="10,8,9" fill="WHITE" layoutX="396.0" layoutY="242.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="10,7,8" fill="WHITE" layoutX="436.0" layoutY="242.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="10,6,7" fill="WHITE" layoutX="476.0" layoutY="242.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="10,5,6" fill="WHITE" layoutX="514.0" layoutY="242.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="10,10,11" fill="WHITE" layoutX="316.0" layoutY="242.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="10,9,10" fill="WHITE" layoutX="356.0" layoutY="242.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="10,12,13" fill="WHITE" layoutX="245.0" layoutY="242.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="10,11,12" fill="WHITE" layoutX="279.0" layoutY="242.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="9,13,13" fill="WHITE" layoutX="229.0" layoutY="271.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="9,10,10" fill="WHITE" layoutX="336.0" layoutY="271.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="9,11,11" fill="WHITE" layoutX="296.0" layoutY="271.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="9,12,12" fill="WHITE" layoutX="263.0" layoutY="271.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="9,8,8" fill="WHITE" layoutX="416.0" layoutY="271.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="9,9,9" fill="WHITE" layoutX="376.0" layoutY="271.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="9,5,5" fill="WHITE" layoutX="529.0" layoutY="270.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="9,6,6" fill="WHITE" layoutX="494.0" layoutY="271.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="9,7,7" fill="WHITE" layoutX="456.0" layoutY="271.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="8,6,5" fill="WHITE" layoutX="514.0" layoutY="300.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="8,5,4" fill="WHITE" layoutX="545.0" layoutY="300.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="8,7,6" fill="WHITE" layoutX="476.0" layoutY="300.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="8,11,10" fill="WHITE" layoutX="316.0" layoutY="300.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="8,10,9" fill="WHITE" layoutX="356.0" layoutY="300.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="8,9,8" fill="WHITE" layoutX="396.0" layoutY="300.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="8,8,7" fill="WHITE" layoutX="436.0" layoutY="300.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="8,13,12" fill="WHITE" layoutX="245.0" layoutY="300.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="8,12,11" fill="WHITE" layoutX="279.0" layoutY="300.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="8,14,13" fill="WHITE" layoutX="212.0" layoutY="300.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="7,11,9" fill="WHITE" layoutX="336.0" layoutY="330.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="7,12,10" fill="WHITE" layoutX="296.0" layoutY="330.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="7,13,11" fill="WHITE" layoutX="263.0" layoutY="330.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="7,10,8" fill="WHITE" layoutX="376.0" layoutY="330.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="7,9,7" fill="WHITE" layoutX="416.0" layoutY="330.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="7,8,6" fill="WHITE" layoutX="456.0" layoutY="330.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="7,7,5" fill="WHITE" layoutX="496.0" layoutY="330.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="6,13,10" fill="WHITE" layoutX="279.0" layoutY="359.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="6,12,9" fill="WHITE" layoutX="316.0" layoutY="359.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="6,11,8" fill="WHITE" layoutX="356.0" layoutY="359.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="6,10,7" fill="WHITE" layoutX="396.0" layoutY="359.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="6,9,6" fill="WHITE" layoutX="436.0" layoutY="359.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="6,8,5" fill="WHITE" layoutX="476.0" layoutY="359.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="5,13,9" fill="WHITE" layoutX="298.0" layoutY="389.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="5,12,8" fill="WHITE" layoutX="336.0" layoutY="389.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="5,11,7" fill="WHITE" layoutX="376.0" layoutY="389.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="5,10,6" fill="WHITE" layoutX="416.0" layoutY="389.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="5,9,5" fill="WHITE" layoutX="456.0" layoutY="389.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="4,13,8" fill="#ea0404" layoutX="316.0" layoutY="418.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="4,12,7" fill="#ea0404" layoutX="356.0" layoutY="418.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="4,11,6" fill="#ea0404" layoutX="396.0" layoutY="418.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="4,10,5" fill="#ea0404" layoutX="436.0" layoutY="418.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="3,13,7" fill="#ea0404" layoutX="336.0" layoutY="443.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="3,12,6" fill="#ea0404" layoutX="376.0" layoutY="443.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="3,11,5" fill="#ea0404" layoutX="416.0" layoutY="443.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="2,13,6" fill="#ea0404" layoutX="356.0" layoutY="468.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="2,12,5" fill="#ea0404" layoutX="396.0" layoutY="468.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="1,13,5" fill="#ea0404" layoutX="376.0" layoutY="492.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="7,14,12" fill="WHITE" layoutX="229.0" layoutY="330.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="7,15,13" fill="WHITE" layoutX="195.0" layoutY="330.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="6,14,11" fill="WHITE" layoutX="245.0" layoutY="358.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="6,15,12" fill="WHITE" layoutX="212.0" layoutY="359.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="6,16,13" fill="WHITE" layoutX="176.0" layoutY="359.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="5,14,10" fill="WHITE" layoutX="263.0" layoutY="389.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="5,15,11" fill="WHITE" layoutX="229.0" layoutY="389.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="5,16,12" fill="WHITE" layoutX="195.0" layoutY="389.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="5,17,13" fill="WHITE" layoutX="159.0" layoutY="389.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="7,6,4" fill="#f7f7f7" layoutX="529.0" layoutY="330.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="7,5,3" fill="WHITE" layoutX="562.0" layoutY="330.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="6,7,4" fill="#f7f7f7" layoutX="512.0" layoutY="358.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="6,6,3" fill="WHITE" layoutX="545.0" layoutY="359.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="6,6,2" fill="WHITE" layoutX="579.0" layoutY="359.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="5,5,1" fill="WHITE" layoutX="595.0" layoutY="389.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="5,6,2" fill="WHITE" layoutX="562.0" layoutY="389.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="5,7,3" fill="WHITE" layoutX="529.0" layoutY="389.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle id="5,8,4" fill="WHITE" layoutX="496.0" layoutY="389.0" onMouseClicked="#clicked" radius="10.0" stroke="BLACK" strokeType="INSIDE" />
+         </children></AnchorPane>
+   </center>
+</BorderPane>

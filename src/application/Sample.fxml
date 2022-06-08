@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+
+<BorderPane xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.Controller">
+   <center>
+      <AnchorPane prefHeight="388.0" prefWidth="450.0" BorderPane.alignment="CENTER">
+         <children>
+            <Button fx:id="level1" alignment="CENTER" layoutX="161.0" layoutY="134.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="65.0" text="Easy"  onAction="#easyClick"/>
+            <Button fx:id="level3" alignment="CENTER" layoutX="161.0" layoutY="258.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="65.0" text="Hard"  onAction="#hardClick"/>
+            <Button fx:id="level2" alignment="CENTER" layoutX="161.0" layoutY="194.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="65.0" text="Medium" onAction="#mediumClick" />
+            <Label alignment="CENTER" layoutX="119.0" layoutY="52.0" prefHeight="37.0" prefWidth="150.0" text="Chinese Checker" />
+         </children>
+      </AnchorPane>
+   </center>
+</BorderPane>

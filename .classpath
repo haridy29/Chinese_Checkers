@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-14">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JavaFX">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jgrapht">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Rocker/Downloads/gson-2.6.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/jgrap/checker-qual-3.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/jgrap/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/jgrap/dsiutils-2.6.17.jar"/>
+	<classpathentry kind="lib" path="C:/jgrap/error_prone_annotations-2.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/jgrap/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/jgrap/fastutil-8.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/jgrap/guava-30.1-jre.jar"/>
+	<classpathentry kind="lib" path="C:/jgrap/j2objc-annotations-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/jgrap/jgrapht-core-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/jgrap/jgrapht-opt-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/jgrap/jgrapht-unimi-dsi-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/jgrap/jheaps-0.13.jar"/>
+	<classpathentry kind="lib" path="C:/jgrap/jsap-20210129.jar"/>
+	<classpathentry kind="lib" path="C:/jgrap/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/jgrap/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="C:/jgrap/logback-classic-1.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/jgrap/logback-core-1.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/jgrap/slf4j-api-1.7.30.jar"/>
+	<classpathentry kind="lib" path="C:/jgrap/sux4j-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/jgrap/webgraph-3.6.10.jar"/>
+	<classpathentry kind="lib" path="C:/jgrap/webgraph-big-3.6.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
